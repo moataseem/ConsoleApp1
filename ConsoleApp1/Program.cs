@@ -15,8 +15,8 @@ namespace ConsoleApp1
 
         public int sum()
         {
-            int x1 = 1;
-            int x2 = 2;
+            var x1 = 1;
+            var x2 = 2;
             int sum = x1 + x2;
 
             return sum;
