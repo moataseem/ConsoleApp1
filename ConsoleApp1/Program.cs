@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // changes 2
+            // feature 2
         }
 
         public int sum(int x1, int x2)
